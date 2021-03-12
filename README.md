@@ -1,13 +1,13 @@
-# Lab-5-
-Lab-5 is a Python program that is going to take a name from an input. It will then ask the user to input a number
+# The Guessing Game
+The Guessing Game is a Python program that is going to take a name from an input. It will then ask the user to input a number
 between 1 and 10. The program will alert the user if they guessed the number correctly. If you guess incorrectly, you will be told to try again.
 
 ## Usage
 The program will ask you your name and then to input a random number.
-'''python
+
 name_input = input("Hi! Enter your name.")
 user_input = int(input("Please enter a number between 1 and 10."))
-'''
+
 The program will alert you if you guessed the number correctly.
 
 ## Installation
